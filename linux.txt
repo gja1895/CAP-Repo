@@ -1,0 +1,9 @@
+ifconfig
+grep
+cd
+ls
+whoami
+cat
+cp
+mv
+rm
