@@ -1,0 +1,8 @@
+ipconfig
+type
+cd
+cipher
+cat
+copy
+del
+gpupdate
